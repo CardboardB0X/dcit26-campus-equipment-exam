@@ -1,0 +1,16 @@
+[
+  {
+    "id": "E-101",
+    "name": "Arthur Pendelton",
+    "specialization": "Graphic Design",
+    "department": "Fine Arts",
+    "sex": "Male"
+  },
+  {
+    "id": "E-102",
+    "name": "Eleanor Vance",
+    "specialization": "Marketing Analytics",
+    "department": "Business Administration",
+    "sex": "Female"
+  }
+]

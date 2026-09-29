@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Julian Vance",
+    "studentNumber": "2025-X981",
+    "course": "Bachelor of Fine Arts",
+    "yearSection": "2nd Year",
+    "sex": "Male",
+    "email": "julian.vance@uni.edu",
+    "address": "Montreal, Canada"
+  },
+  {
+    "id": 2,
+    "name": "Chloe Dubois",
+    "studentNumber": "2025-X982",
+    "course": "Bachelor of Business Administration",
+    "yearSection": "1st Year",
+    "sex": "Female",
+    "email": "chloe.dubois@uni.edu",
+    "address": "Lyon, France"
+  }
+]
